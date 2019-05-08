@@ -1,4 +1,4 @@
-module github.com/lafriks/go-tiled
+module github.com/gpayer/go-tiled
 
 require (
 	github.com/disintegration/imaging v1.6.0
